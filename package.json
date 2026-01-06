@@ -1,0 +1,10 @@
+{
+  "name": "salamat",
+  "version": "1.0.0",
+  "description": "Health Resource Sharing Platform",
+  "type": "commonjs",
+  "dependencies": {
+    "twilio": "^4.19.0",
+    "nodemailer": "^6.9.7"
+  }
+}
